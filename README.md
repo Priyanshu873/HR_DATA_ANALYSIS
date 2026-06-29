@@ -101,6 +101,6 @@ This project is open-source under the MIT License.
 
 📧 Email: [priyanshumishra19086@gmail.com](mailto:priyanshumishra19086@gmail.com)
 
-🔗 LinkedIn: https://www.linkedin.com/
+🔗 LinkedIn: https:https://www.linkedin.com/in/priyanshu-mishra-477338328/
 
 ---
